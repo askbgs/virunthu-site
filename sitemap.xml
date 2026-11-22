@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://virunthu.shop/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://virunthu.shop/images/floor.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/order_options.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/kitchen.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/bill_cash_short.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/shift_close.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/stock_recipes.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/reports.jpg</image:loc></image:image>
+    <image:image><image:loc>https://virunthu.shop/images/receipt.png</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://virunthu.shop/images/demo-poster.jpg</video:thumbnail_loc>
+      <video:title>Virundhu &amp; Co restaurant POS demo</video:title>
+      <video:description>A walk through ordering, the kitchen display, billing, shift close and reports.</video:description>
+      <video:content_loc>https://virunthu.shop/video/virundhu-demo-en.mp4</video:content_loc>
+      <video:duration>208</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://virunthu.shop/privacy.html</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
